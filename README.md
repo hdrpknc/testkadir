@@ -1,5 +1,5 @@
 # Homepage
 
 # Build settings
-markdonw: kramdown
+markdown: kramdown
 theme: minima
